@@ -1,0 +1,9 @@
+{
+  "name": "Factorissimo2",
+  "version": "1.0.0",
+  "title": "Xustom-Factorissimo2",
+  "author": "MagmaMcFry & Tankplus",
+  "description": "Factorissimo adds factory buildings to Factorio. Place them down, walk in, build your factories inside! adds even more buildings",
+  "factorio_version": "0.17",
+  "dependencies": ["base >= 0.17.0"]
+}
